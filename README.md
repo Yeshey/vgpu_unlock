@@ -2,7 +2,7 @@
 
 [Original repo](https://github.com/DualCoder/vgpu_unlock)
 
-The only difference from this to the original repo is the addition of the `setup.py` file so it can be used in my nixOS module: https://github.com/Yeshey/nixos-nvidia-vgpu_nixOS22.11_WIP
+The only difference from this to the original repo is the addition of the `setup.py` file so it can be used in [my nixOS module](https://github.com/Yeshey/nixos-nvidia-vgpu_nixOS22.11)
 
 
 Unlock vGPU functionality for consumer-grade Nvidia GPUs.
